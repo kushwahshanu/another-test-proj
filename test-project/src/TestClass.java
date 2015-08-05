@@ -6,6 +6,7 @@ public class TestClass {
 		System.out.println("feature1.0 BUG #999 fixed");
 		System.out.println("feature1.0 BUG #1000 fixed");
 		
+		System.out.println("hi after tag creation");
 		
 	}
 }
